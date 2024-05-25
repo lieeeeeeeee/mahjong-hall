@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§lMahjong §aHall",
+    "description": "",
+    "uuid": "6766aaa5-c570-488f-83e3-6ac2f3c74b9c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      70
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "da402cec-80d2-400e-b25d-3340a84e9090",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "8a613422-5a34-4b34-aed7-3415f68d519f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§lMahjong §aHall",
+    "description": "My TypeScript Project",
+    "uuid": "f1912a30-8b20-4906-b0cc-989c59cb536f",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      70
+    ]
+  },
+  "modules": [
+    {
+      "description": "Script resources",
+      "language": "javascript",
+      "type": "script",
+      "uuid": "e2f11d36-36aa-4461-8b19-2fe4dbd03dec",
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.11.0-beta"
+    },
+    {
+      "uuid": "da4e2248-82f0-4b9b-b496-99805b7b10f8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
